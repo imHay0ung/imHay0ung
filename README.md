@@ -6,7 +6,7 @@ Chungnam National University, Computer Science
 
 ## Projects
 
-### 🧠 FocusFlow
+### 🧠 [Focus-Flow](https://github.com/imHay0ung/focusflow)
 AI-powered, on-device focus management for macOS
 크롬 탭 30개를 열어두는 사람들(필자와같은)을 위한 도구. 탭을 무작정 닫는 게 아니라, 
 지금 뭘 해야 하는지 알려주는 온디바이스 AI 비서.
